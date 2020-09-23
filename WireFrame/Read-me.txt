@@ -1,0 +1,57 @@
+3D WireFrame, by KACI Lounes March/2005
+---------------------------------------
+
+This is a 3d wireframe engine fully in vb!
+no references, no DLLs, no OCXs, just pure vb code.
+
+As you saw, there are four primatives (Grid, Sphere, Torus and Teapot),
+(see screen shot), The teapot is rotated for each
+frame rendered, into Z axis (Roll).
+
+You have two mode for viewing the scene:
+
+1- Pitch/Yaw mode: You can control the position and the orientation
+2- LookAt mode: You can control only the position
+
+Controls:
+--------
+
+Up/Down: walk to front/back
+Right/Left/Home/End: respectively: Pitch+/Pitch-/Yaw+/Yaw-
+NumPad 1, 2, 3: (Only LookAt mode) look at: Sphere/Teapot/Torus
+
+ Yes, i see that this project is slow, but i prefer the
+quality that the speed, I would like this well
+that 'Mazes of mouse' !! (Sorry for some peoples).
+
+Future additions:
+-----------------
+
+- Flat/Gouraud Shading
+- Lighting effects with multiple lights and light types (Spot, Point)
+- Support for texture mapping & wrapping & filtering
+- Z-Buffer, classical painter's algorithm
+- Full support for collisions detection
+- AntiAliasing
+
+  and mooore.......
+
+The code is written of a way that it is legible and understanding,
+and the 3D programming is clearly classified.
+
+About the author:
+
+ Well......
+ My name is KACI Lounes, my country is Algeria, I'am 17 (1988)
+ I interest to Computer graphics/Games developement.
+
+Sorry for the orthographic errors (!), i prefer french as language !!
+
+if you have any questions about my projects,
+contact me at:
+
+ KLKEANO@HOTMAIL.COM
+
+Copyright © 03/2005 - KACI Lounes
+
+Enjoy!
